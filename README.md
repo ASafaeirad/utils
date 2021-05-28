@@ -1,3 +1,7 @@
+# ⚠️ NOTE: @frontendmonster/utils is now @fullstacksjs/toolbox and has moved into the [fullstacksjs organizationa](https://github.com/fullstacksjs/toolbox).
+
+---
+
 # Utils
 
 Common JavaScript utility functions
